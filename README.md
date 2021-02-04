@@ -1,3 +1,3 @@
-# Программа для проекта "Миллиметрон". Позволяет управлять контроллером актуаторов параболического зеркала.
+### РџСЂРѕРіСЂР°РјРјР° РґР»СЏ РїСЂРѕРµРєС‚Р° "РњРёР»Р»РёРјРµС‚СЂРѕРЅ". РџРѕР·РІРѕР»СЏРµС‚ СѓРїСЂР°РІР»СЏС‚СЊ РєРѕРЅС‚СЂРѕР»Р»РµСЂРѕРј Р°РєС‚СѓР°С‚РѕСЂРѕРІ РїР°СЂР°Р±РѕР»РёС‡РµСЃРєРѕРіРѕ Р·РµСЂРєР°Р»Р°.
 
-![img](http://github.com/gtsema/millimetron_StepEngineController/raw/master/images/img.png)
+![img](https://github.com/gtsema/millimetron_StepEngineController/raw/master/images/img.png)
